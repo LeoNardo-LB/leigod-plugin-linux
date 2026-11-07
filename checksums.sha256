@@ -10,5 +10,5 @@
 # http://119.3.40.126 began serving a new build (HTTP Last-Modified 2026-09-11,
 # byte-identical across two downloads). The previous pinned digest was
 # 8e0adbd1b1ce0d37e6588ff222408fed66a3f8954fee27bc37a10e0bf6806d4d.
-f81ec6a7e1a5bcef8cb8d1bf233141ece7d54250881422ecc2814c98df819e23  acc-gw.router.amd64
+3640d47abaee4a6b4312e3489137311ab309d27dcb92ab640c0fe3d953328c1b acc-gw.router.amd64
 3536000ee9eb3997538cb37a14f90d571979734c48b23b8d548eceac16666273  ipdatacloud_country.xdb
